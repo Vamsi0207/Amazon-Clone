@@ -1,2 +1,3 @@
 # Amazon-Clone
-Static amazon clone
+This is static Amazon Clone Application
+
